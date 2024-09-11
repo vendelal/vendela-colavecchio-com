@@ -1,0 +1,5 @@
+{
+  "repositoryName": "vendela-colavecchio-com",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"]
+}
